@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=tinyCodersDen&theme=github)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinyCodersDen&layout=compact"/>
 Here are some ideas to get you started:
 
 - 🔭 I currently working on ...
