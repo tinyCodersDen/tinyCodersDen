@@ -1,4 +1,4 @@
-### Hi there <img src="./wave.gif" width="30px">
+# Hi There <img src="./wave.gif" width="30px">
 Hi, I am a python programmer. I am a coder who loves programming and is dedicated to learning new stuff!
 <br>
 ![](https://komarev.com/ghpvc/?username=tinyCodersDen&color=blue)
