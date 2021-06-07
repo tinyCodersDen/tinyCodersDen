@@ -10,6 +10,9 @@ Hi, I am a python programmer. I am a coder who loves programming and is dedicate
 <br>
 <img src="https://github-readme-stats.vercel.app/api?count_private=true&include_all_commits=true&username=tinyCodersDen&show_icons=true&hide_title=true&theme=dark" /> 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tinyCodersDen&" alt="tinyCodersDen" /></p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tinyCodersDen&column=7&theme=onedark" />
+</div>
 <!-- Here are some ideas to get you started:
 
 - 🔭 I currently working on ...
