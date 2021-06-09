@@ -14,7 +14,7 @@ Website: https://coderkeed.wixsite.com/home
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tinyCodersDen&" alt="tinyCodersDen" /></p>
 <img src="https://github-profile-trophy.vercel.app/?username=tinyCodersDen&column=7&theme=onedark" />
 <br>
-<a href="https://stackoverflow.com/users/16168925/viperstream"><img src="https://github-readme-stackoverflow.vercel.app/?userID=16168925&theme=dark" /></a>
+<a href="https://stackoverflow.com/users/16168925/viperstream?tab=profile"><img src="https://github-readme-stackoverflow.vercel.app/?userID=16168925&theme=dark" /></a>
 <!-- Here are some ideas to get you started:
 
 - 🔭 I currently working on ...
