@@ -12,9 +12,9 @@ Website: https://coderkeed.wixsite.com/home
 <br>
 <img src="https://github-readme-stats.vercel.app/api?count_private=true&include_all_commits=true&username=tinyCodersDen&show_icons=true&hide_title=true&theme=dark" /> 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tinyCodersDen&" alt="tinyCodersDen" /></p>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tinyCodersDen&column=7&theme=onedark" />
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=tinyCodersDen&column=7&theme=onedark" />
+<br>
+<a href="https://stackoverflow.com/users/16168925/viperstream"><img src="https://github-readme-stackoverflow.vercel.app/?userID=16168925&theme=dark" /></a>
 <!-- Here are some ideas to get you started:
 
 - 🔭 I currently working on ...
