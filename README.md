@@ -1,12 +1,10 @@
 # Hi There <img src="./wave.gif" width="30px">
 Hi, I am a python programmer. I am a coder who loves programming and is dedicated to learning new stuff! 
 <br>
-Website: https://coderkeed.wixsite.com/home
-<br>
 ![](https://komarev.com/ghpvc/?username=tinyCodersDen&color=blue)
 ![](https://img.shields.io/badge/OS-Windows&nbsp;10-informational?style=flat&logo=windows&logoColor=blue&color=0C7DBE)
 ![](https://img.shields.io/badge/Editor-VS&nbsp;Code-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=0C7DBE)
-![](https://img.shields.io/badge/Shell-Windows&nbsp;Terminal-informational?style=flat&logo=windows-terminal&logoColor=blue&color=0C7DBE)
+![](https://img.shields.io/badge/Shell-Terminal-informational?style=flat&logo=windows-terminal&logoColor=blue&color=0C7DBE)
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=tinyCodersDen&theme=github)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinyCodersDen&layout=compact"/>
 <br>
