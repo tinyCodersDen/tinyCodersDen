@@ -6,7 +6,8 @@ Hi, I am a python programmer. I am a coder who loves programming and is dedicate
 ![](https://img.shields.io/badge/Editor-VS&nbsp;Code-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=0C7DBE)
 ![](https://img.shields.io/badge/Shell-Terminal-informational?style=flat&logo=windows-terminal&logoColor=blue&color=0C7DBE)
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=tinyCodersDen&theme=github)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinyCodersDen&layout=compact"/>
+<img src="https://user-images.githubusercontent.com/552074/87779262-6eb5af80-c824-11ea-9a51-756034f07e17.png"
+![](https://user-images.githubusercontent.com/552074/87779262-6eb5af80-c824-11ea-9a51-756034f07e17.png)
 <br>
 <img src="https://github-readme-stats.vercel.app/api?count_private=true&include_all_commits=true&username=tinyCodersDen&show_icons=true&hide_title=true&theme=dark" /> 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tinyCodersDen&" alt="tinyCodersDen" /></p>
