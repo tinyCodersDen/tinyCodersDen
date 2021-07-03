@@ -1,5 +1,5 @@
-# Hi There <img src="./wave.gif" width="30px">
-Hi, I am a python programmer. I am a coder who loves programming and is dedicated to learning new stuff! 
+# Hello! <img src="./wave.gif" width="30px">
+Hi, I am a python programmer, but I also know languages like HTML, CSS, Javascript, C++, Bash, and Java. I am a coder who loves programming and is dedicated to learning new stuff! 
 <br>
 ![](https://komarev.com/ghpvc/?username=tinyCodersDen&color=blue)
 ![](https://img.shields.io/badge/OS-Windows&nbsp;10-informational?style=flat&logo=windows&logoColor=blue&color=0C7DBE)
