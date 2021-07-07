@@ -6,12 +6,20 @@ Hi, I am a python programmer, but I also know languages like HTML, CSS, Javascri
 ![](https://img.shields.io/badge/OS-Windows&nbsp;10-informational?style=flat&logo=windows&logoColor=blue&color=0C7DBE)
 ![](https://img.shields.io/badge/Editor-VS&nbsp;Code-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=0C7DBE)
 ![](https://img.shields.io/badge/Shell-Terminal-informational?style=flat&logo=windows-terminal&logoColor=blue&color=0C7DBE)
+<br>
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=tinyCodersDen&theme=github)
 <br>
+My stats:
+<br>
 ![Vihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinycodersden&show_icons=true&count_private=true&hide_title=true)
+<br>
+My streaks:
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tinyCodersDen&" alt="tinyCodersDen" /></p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaravdave&layout=compact"/>
+My Trophies:
 <img src="https://github-profile-trophy.vercel.app/?username=tinyCodersDen&column=7&theme=onedark" />
+Check out my StackOverFlow!
 <br>
 <a href="https://stackoverflow.com/users/16168925/viperstream?tab=profile"><img src="https://github-readme-stackoverflow.vercel.app/?userID=16168925&theme=dark" /></a>
 <!-- Here are some ideas to get you started:
