@@ -1,4 +1,4 @@
-# Want to secure passwords and other confidential items? Use the [V-Encryption Algorithm](https://github.com/tinyCodersDen/V-Encryption-Algorithm)!
+# Py-data-structure is now available via pip! [Download now](https://github.com/tinyCodersDen/py-data-structure)!
 Hi, I am a python programmer, but I also know languages like HTML, CSS, Javascript, C++, Bash, and Java. I am a coder who loves programming and is dedicated to learning new stuff!  I am currently working on MongoDB and learning how databases connect to the web. If you have any suggestions for repos or improvments, tell me here! You will also find some open source projects I make.
 <br>
 <br>
