@@ -11,7 +11,7 @@ Hi, I am a python programmer, but I also know languages like HTML, CSS, Javascri
 <br>
 My stats:
 <br>
-![Vihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinycodersden&show_icons=true&count_private=true&hide_title=true)
+![Vihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinycodersden&show_icons=true&count_private=true&hide_title=true&include_all_commits=true)
 <br>
 My streaks:
 <br>
