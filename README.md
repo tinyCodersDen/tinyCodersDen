@@ -17,7 +17,7 @@ My streaks:
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tinyCodersDen&" alt="tinyCodersDen" /></p>
 The languages I use the most:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaravdave&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinyCodersDen&layout=compact"/>
 Check out my StackOverFlow!
 <br>
 <a href="https://stackoverflow.com/users/16168925/viperstream?tab=profile"><img src="https://github-readme-stackoverflow.vercel.app/?userID=16168925&theme=dark" /></a>
