@@ -2,7 +2,9 @@
 Hi, I am a python programmer, but I also know languages like HTML, CSS, Javascript, C++, Bash, and Java. I am a coder who loves programming and is dedicated to learning new stuff!  I am currently working on MongoDB and learning how databases connect to the web. If you have any suggestions for repos or improvments, tell me here! You will also find some open source projects I make.
 <br>
 <br>
-[<img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/social/gmail%402x.png' height = '40px'>](mailto:vihan.raval1@gmail.com)
+[<img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/social/gmail%402x.png'>](mailto:vihan.raval1@gmail.com)
+[<img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/services/codechef%402x.png'>](https://www.codechef.com/users/vihrav140)
+[<img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/services/hackerrank%402x.png'>](https://www.hackerrank.com/vihan_raval1)
 ![](https://komarev.com/ghpvc/?username=tinyCodersDen&color=blue)
 ![](https://img.shields.io/badge/OS-Windows&nbsp;10-informational?style=flat&logo=windows&logoColor=blue&color=0C7DBE)
 ![](https://img.shields.io/badge/Editor-VS&nbsp;Code-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=0C7DBE)
