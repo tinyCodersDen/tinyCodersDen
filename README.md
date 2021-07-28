@@ -2,10 +2,10 @@
 Hi, I am a python programmer, but I also know languages like HTML, CSS, Javascript, C++, Bash, and Java. I am a coder who loves programming and is dedicated to learning new stuff!  I am currently working on MongoDB and learning how databases connect to the web. If you have any suggestions for repos or improvments, tell me here! You will also find some open source projects I make.
 <br>
 <br>
-[<img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/social/gmail%402x.png' height='55px'>](mailto:vihan.raval1@gmail.com)
+[<img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/social/gmail%402x.png' height='49px'>](mailto:vihan.raval1@gmail.com)
 [<img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/services/codechef%402x.png' width='210px'>](https://www.codechef.com/users/vihrav140)
 [<img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/services/hackerrank%402x.png' width='220px'>](https://www.hackerrank.com/vihan_raval1)
-[<img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/streaming/youtube%402x.png' height='55px'>](https://www.youtube.com/channel/UCcYaT59XcMxI9X3UDlVkZDA)
+[<img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/streaming/youtube%402x.png' height='49px'>](https://www.youtube.com/channel/UCcYaT59XcMxI9X3UDlVkZDA)
 <br>
 <br>
 ![](https://komarev.com/ghpvc/?username=tinyCodersDen&color=blue)
