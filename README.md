@@ -1,5 +1,5 @@
 # Py-data-structure is now available via pip! [Download now](https://github.com/tinyCodersDen/py-data-structure)!
-Hi, I am a python programmer, but I also know languages like HTML, CSS, Javascript, C++, Bash, and Java. I am a coder who loves programming and is dedicated to learning new stuff!  I am currently working on MongoDB and learning how databases connect to the web. If you have any suggestions for repos or improvements, tell me here! You will also find some open source projects I make.
+Hi, I am a python programmer, but I also know languages like HTML, CSS, Javascript, C++, Bash, and Java. I am a coder who loves programming and is dedicated to learning new stuff!  I am currently working on Machine Learning and seeing how AI can make real world applications that have an important use-case.
 <br>
 <br>
 ![](https://komarev.com/ghpvc/?username=tinyCodersDen&color=blue)
