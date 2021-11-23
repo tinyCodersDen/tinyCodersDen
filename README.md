@@ -32,11 +32,11 @@ The languages I use the most:
 <br>
 <a href="https://stackoverflow.com/users/16168925/viperstream?tab=profile"><img src="https://github-readme-stackoverflow.vercel.app/?userID=16168925&theme=dark" /></a>
 </td>
-    <td>
+    <th>
       <strong>My HacktoberFest-2021 Badge</strong>
 <br>
 <a href="https://dev.to/badge/hacktoberfest-2021"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--cm4PWdMq--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" /></a>
-    </td>
+    </th>
   </tr>
    </table>
 <!-- Here are some ideas to get you started:
