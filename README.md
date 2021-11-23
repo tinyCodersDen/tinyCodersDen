@@ -28,9 +28,9 @@ The languages I use the most:
 Check out my StackOverFlow!
 <br>
 <a href="https://stackoverflow.com/users/16168925/viperstream?tab=profile"><img src="https://github-readme-stackoverflow.vercel.app/?userID=16168925&theme=dark" /></a>
-HEcktoberFest-2021!
+HacktoberFest-2021!
 <br>
-<HacktoberfestBadge year={2021} />
+<a href="https://dev.to/badge/hacktoberfest-2021><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--cm4PWdMq--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" /></a>
 <!-- Here are some ideas to get you started:
 
 - 🔭 I currently working on ...
