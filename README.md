@@ -28,6 +28,9 @@ The languages I use the most:
 Check out my StackOverFlow!
 <br>
 <a href="https://stackoverflow.com/users/16168925/viperstream?tab=profile"><img src="https://github-readme-stackoverflow.vercel.app/?userID=16168925&theme=dark" /></a>
+HEcktoberFest-2021!
+<br>
+<HacktoberfestBadge year={2021} />
 <!-- Here are some ideas to get you started:
 
 - 🔭 I currently working on ...
