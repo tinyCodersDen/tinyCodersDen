@@ -25,12 +25,18 @@ My streaks:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tinyCodersDen&" alt="tinyCodersDen" /></p>
 The languages I use the most:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinyCodersDen&layout=compact"/>
+<table>
+  <tr>
+    <td>
 Check out my StackOverFlow!
 <br>
 <a href="https://stackoverflow.com/users/16168925/viperstream?tab=profile"><img src="https://github-readme-stackoverflow.vercel.app/?userID=16168925&theme=dark" /></a>
-HacktoberFest-2021!
+</td>
+    <td>
+      HacktoberFest-2021!
 <br>
 <a href="https://dev.to/badge/hacktoberfest-2021"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--cm4PWdMq--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" /></a>
+    </td>
 <!-- Here are some ideas to get you started:
 
 - 🔭 I currently working on ...
