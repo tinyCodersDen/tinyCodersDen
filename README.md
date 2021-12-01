@@ -35,7 +35,7 @@ The languages I use the most:
     <th>
       <strong>My HacktoberFest-2021 Badge</strong>
 <br>
-<a href="https://dev.to/badge/hacktoberfest-2021"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--cm4PWdMq--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" style="width:500px;height:600px;" /></a>
+<a href="https://dev.to/badge/hacktoberfest-2021"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--cm4PWdMq--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" style="width:250px;height:250px;" /></a>
     </th>
   </tr>
    </table>
