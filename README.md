@@ -30,7 +30,10 @@ The languages I use the most:
     <th>
 <strong>Check out my StackOverFlow!</strong>
 <br>
-<a href="https://stackoverflow.com/users/16168925/viperstream?tab=profile"><img src="https://github-readme-stackoverflow.vercel.app/?userID=16168925&theme=dark" /></a>
+<a href="https://stackoverflow.com/users/16168925/viperstream/#gh-light-mode-only">
+  <img src="https://github-readme-stackoverflow.vercel.app/?userID=16168925&theme=light" />
+</a>
+
 </th>
     <th>
       <strong>My HacktoberFest-2021 Badge</strong>
