@@ -38,8 +38,12 @@ The languages I use the most:
     <th>
       <strong>My HacktoberFest-2021 Badge</strong>
 <br>
-<a href="https://dev.to/badge/hacktoberfest-2021"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--cm4PWdMq--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" style="width:300px;height:300px;" /></a>
+<a href="https://dev.to/badges"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--cm4PWdMq--/c_limit,f_auto,fl_progressive,q_300,w_300/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" style="width:300px;height:300px;" /></a>
     </th>
+<th>
+      <strong>My HacktoberFest-2022 Badge</strong>
+<br>
+<a href="https://dev.to/badges"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--rX-dH2o3--/c_limit,f_auto,fl_progressive,q_300,w_300/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/206/ht-badge.png" style="width:300px;height:300px;" /></a>
   </tr>
    </table>
 <!-- Here are some ideas to get you started:
