@@ -1,5 +1,5 @@
 # Need solutions to the [CCC](https://cemc.uwaterloo.ca/contests/ccc-cco.html) contest? [Here they are!](https://github.com/tinyCodersDen/CCC-Solutions)
-Hi, I am a 14 year old Python programmer, but I also know languages like HTML, CSS, Javascript, C++, Bash, and Java. I am a coder who loves programming and is dedicated to learning new stuff!  I am currently working on VueJS, ReactJS, and how Javascript can add a modern touch to websites.
+Hi, I am a 15 year old Python programmer, but I also know languages like HTML, CSS, Javascript, C++, Bash, and Java. I am a coder who loves programming and is dedicated to learning new stuff!  I am currently working on VueJS, ReactJS, and how Javascript can add a modern touch to websites.
 <br>
 <br>
 ![](https://komarev.com/ghpvc/?username=tinyCodersDen&color=blue)
