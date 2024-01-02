@@ -43,6 +43,10 @@ Most used Languages:
       <strong>My HacktoberFest-2022 Badge</strong>
 <br>
 <a href="https://dev.to/badges"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--rX-dH2o3--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/206/ht-badge.png" style="width:300px;height:300px;" /></a>
+<th>
+      <strong>My HacktoberFest-2023 Badge</strong>
+<br>
+<a href="https://dev.to/badges"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Gy_9UkOa--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/243/Maintainer.png" style="width:300px;height:300px;" /></a>
   </tr>
    </table>
 <!-- Here are some ideas to get you started:
