@@ -18,13 +18,13 @@ Hi, I am a 15 year old Python programmer, but I also know languages like HTML, C
 <br>
 My stats:
 <br>
-![Vihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinycodersden&show_icons=true&count_private=true&hide_title=true)
+![Vihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinycodersden&show_icons=true&count_private=true&rank_icon=github&hide_title=true&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 <br>
 My streaks:
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tinyCodersDen&" alt="tinyCodersDen" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tinyCodersDen" alt="tinyCodersDen" /></p>
 The languages I use the most:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinyCodersDen&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinyCodersDen"/>
 <table>
   <tr>
     <th>
