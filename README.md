@@ -14,16 +14,15 @@ Hi, I am a 15 year old Python programmer, but I also know languages like HTML, C
 [<img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/streaming/youtube%402x.png' height='49px'>](https://www.youtube.com/channel/UCcYaT59XcMxI9X3UDlVkZDA)
 <br>
 <br>
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=tinyCodersDen&theme=github)
-<br>
 My stats:
-<br>
+<br><br>
 ![Vihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinycodersden&show_icons=true&count_private=true&rank_icon=github&hide_title=true&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 <br>
 My streaks:
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tinyCodersDen" alt="tinyCodersDen" /></p>
-The languages I use the most:
+Most used Languages:
+<br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinyCodersDen"/>
 <table>
   <tr>
