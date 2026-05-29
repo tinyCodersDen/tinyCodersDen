@@ -1,5 +1,5 @@
-# Need solutions to the [CCC](https://cemc.uwaterloo.ca/contests/ccc-cco.html) contest? [Here they are!](https://github.com/tinyCodersDen/CCC-Solutions)
-Hi, I am a 16-year-old Python programmer, but I also know languages like HTML, CSS, Javascript, C++, Bash, and Java. I am a coder who loves programming and is dedicated to learning new stuff!  I am currently working on VueJS, ReactJS, and how Javascript can add a modern touch to websites. Stay in the loop for my Hacktoberfest repositories if you want to contribute!
+# [Check this out!](https://tinycodersden.github.io/)
+Hi, I am a 17-year-old builder, entrepreneur, and influencer. After going through multiple entrepreneurial and technological ventures, I have explored med-tech, agentic AI, and other upcoming intersections of technology! Currently, I am developing my skills in Agentic AI to build multiple ventures in the future.
 <br>
 <br>
 ![](https://komarev.com/ghpvc/?username=tinyCodersDen&color=blue)
