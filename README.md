@@ -1,7 +1,7 @@
 # [Check this out!](https://tinycodersden.github.io/)
 Vihan Raval - UT CO'30
 
-Hi, I am a 17-year-old builder, entrepreneur, and influencer. After going through multiple entrepreneurial and technological ventures, I have explored med-tech, agentic AI, and other upcoming intersections of technology! Currently, I am developing my skills in Agentic AI to build multiple ventures in the future.
+Hi, I am a 18-year-old builder, entrepreneur, and influencer. After going through multiple entrepreneurial and technological ventures, I have explored med-tech, agentic AI, and other upcoming intersections of technology! Currently, I am developing my skills in Agentic AI to build multiple ventures in the future.
 
 TL;DR - Be a Polymath.
 <br>
